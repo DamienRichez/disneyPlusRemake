@@ -1,3 +1,34 @@
+.nav {
+  font-family: Roboto;
+  font-weight: bold; }
+
+.jumbotron {
+  background-image: url("../img/roi-lion.jpg");
+  background-size: cover;
+  height: 100%;
+  display: flex;
+  justify-content: flex-end;
+  border-radius: 0rem; }
+
+.jumbotron-text {
+  font-family: Roboto;
+  font-weight: bold;
+  color: white;
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  padding-right: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end; }
+
+.lead {
+  display: flex;
+  justify-content: space-around; }
+
+.btn {
+  border-radius: 2rem !important;
+  padding: 1rem 3rem 1rem 3rem !important; }
+
 /*!
  * Bootstrap v4.5.3 (https://getbootstrap.com/)
  * Copyright 2011-2020 The Bootstrap Authors
